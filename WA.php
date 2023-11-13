@@ -13,7 +13,7 @@
   <h2>Form Encode Pesan</h2>
   <form method="post">
    <div class="input-group mb-3">
-    <span class="input-group-text">No. HP WA: </span>
+    <span class="input-group-text">No WA: </span>
     <input type="text" class="form-control">
    </div>
    <div class="input-group mb-3">
