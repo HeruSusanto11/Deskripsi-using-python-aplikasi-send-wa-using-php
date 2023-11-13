@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Pengirim Pesan WA Terenkode Base64 Regi Febian Guteres</title>
+  <title>Pengirim Pesan WA Heru Susanto</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -17,7 +17,7 @@
     <input type="text" class="form-control">
    </div>
    <div class="input-group mb-3">
-    <span class="input-group-text">Pesan yang akan dikirim : </span>
+    <span class="input-group-text">Kirim Pesan Wa : </span>
 	<textarea class="form-control" rows="5" id="pesan" name="pesan"></textarea>
    </div>
    <button type="submit" class="btn btn-primary" name="bEncode">Encode Pesannya</button>
